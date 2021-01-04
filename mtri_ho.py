@@ -1,0 +1,1 @@
+print('hello các bạn đang xem video của mình')
